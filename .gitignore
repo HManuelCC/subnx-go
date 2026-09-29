@@ -1,0 +1,11 @@
+# Binarios
+*.exe
+*.out
+/bin/
+/dist/
+
+# Entorno / IDE
+.env
+.idea/
+.vscode/
+.DS_Store
